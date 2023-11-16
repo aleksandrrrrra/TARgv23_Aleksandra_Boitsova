@@ -69,7 +69,7 @@ print("a+b+c")
 sõbrad=int(input("kui palju sõpru?: "))
 hind = 12.9 #float
 iga_maksab = hind/sõbrad
-print("iga sõber maksab"), hind
+print("iga sõber maksab", iga_maksab)
 
 
 #Esimene osa:
